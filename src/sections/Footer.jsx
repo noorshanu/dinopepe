@@ -3,8 +3,8 @@ import { FaTwitter, FaTelegram } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className=" w-full pb-8 ">
-      <div className="container-wrapper mt-8 ">
+    <footer className=" w-full pb-4 border-t-2 mt-3 ">
+      <div className="container-wrapper mt-1 ">
         <div className="flex justify-between flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
           <p className="font-groot-one text-black">
