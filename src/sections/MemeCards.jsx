@@ -17,11 +17,11 @@ function MemeCards() {
             Dino pepe isn't your average meme coin - he's the next viral meme! 
             </p>
             <h1 className=" text-xl sm:text-2xl py-3  font-groot-one text-white  font-medium">
-              1. Dino pepe Game: Adventure awaits! Explore, collect, and have a blast in our dino-filled jungle!
+              1. Dino Pepe Treasury: Manages funds to support community initiatives, rewards, and project growth.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one  text-white font-medium">
-              2. Dino pepe Pet Store: Adopt your virtual pet today! Find the perfect furry friend in our sanctuary.
+              2. Memes: Hilarious, engaging memes that unite our community and spread the Dino Pepe spirit.
             </h1>
 
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-white font-medium">
@@ -29,7 +29,7 @@ function MemeCards() {
 
             </h1>
             <h1 className=" text-xl sm:text-2xl py-3 font-groot-one text-white font-medium">
-              3. Meme Creation: Laugh non-stop with our hilarious memes! Join the fun in the solana jungle!
+              4. NFTs: Unique, collectible Dino Pepe NFTs offering exclusive perks and rare designs.
 
             </h1>
           </div>

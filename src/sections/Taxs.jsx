@@ -26,6 +26,9 @@ function Taxs() {
            </div>
            <div>
             <img src="images/img1.jpeg" alt="" />
+            <p>
+              
+            </p>
            </div>
           </div>
         </div>
