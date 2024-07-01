@@ -27,7 +27,7 @@ const AccordionItem = ({ title, content }) => {
         style={{ maxHeight: `${height}` }}
         className="overflow-hidden transition-max-height duration-500 ease-in-out"
       >
-        <div className="p-4 text-gray-700 bg-white">
+        <div className="p-4 text-gray-700 ">
           {content}
         </div>
       </div>
