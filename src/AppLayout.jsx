@@ -9,6 +9,8 @@ import Footer from "./sections/Footer";
 import RoadMap from "./sections/RoadMap";
 import HowToBuy from "./sections/HowToBuy";
 import Faq from "./sections/Faq";
+import Taxs from "./sections/Taxs";
+import ChooseHero from "./sections/ChooseHero";
 
 function AppLayout() {
   return (
@@ -26,6 +28,9 @@ function AppLayout() {
         <dl className="h-[50px]" />
         <Intro />
         <dl className="h-[50px]" />
+        <div>
+         <ChooseHero/>
+        </div>
         <div className=" bg-[#224609]">
         <MemeCards />
         </div>
