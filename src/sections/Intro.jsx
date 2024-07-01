@@ -18,7 +18,7 @@ const Intro = () => {
           <div className=" w-full sm:w-[500px]">
             {/* <RoadmapCards /> */}
             <img
-              src="images/img2.jpeg"
+              src="images/dia.jpeg"
               alt=""
               className=" rounded-3xl shadow-lg"
             />

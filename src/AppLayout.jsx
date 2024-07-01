@@ -7,6 +7,8 @@ import Partner from "./sections/Partner";
 import MemeCards from "./sections/MemeCards";
 import Footer from "./sections/Footer";
 import RoadMap from "./sections/RoadMap";
+import HowToBuy from "./sections/HowToBuy";
+import Faq from "./sections/Faq";
 
 function AppLayout() {
   return (
@@ -29,6 +31,13 @@ function AppLayout() {
         </div>
         <div>
           <RoadMap/>
+        </div>
+
+        <div className=" bg-[#224609]">
+    <HowToBuy/>
+        </div>
+        <div className=" mt-4">
+          <Faq/>
         </div>
         {/* <div>
           <Partner />
