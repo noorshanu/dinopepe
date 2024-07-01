@@ -16,8 +16,8 @@ function Navbar() {
             alt=""
           />
 
-          <p className=" text-3xl font-bold font-groot-one text-[#ffffff] sm:text-[#ffffff]">
-            Dino pepe
+          <p className=" text-3xl font-bold font-groot-one text-[#ffffff] sm:text-[#000000]">
+            DinoPepe
           </p>
         </div>
 

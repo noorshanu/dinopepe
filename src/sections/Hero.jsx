@@ -1,9 +1,9 @@
 function Hero() {
   return (
-    <section className=" pt-8  pb-[4rem]">
+    <section className=" pt-0  pb-[4rem]">
       <div className="container-wrapper">
-        <h1 className=" font-groot-one text-2xl text-center sm:text-5xl font-semibold my-4 max-w-full sm:max-w-5xl mx-auto text-[#ffffff] rounded-xl border-2 border-[#65b44b] sm:text-[#fff] bg-[#00000073] drop-shadow-2xl">
-       Dino pepe is all about Memes, Cuteness, and Solana Jungle Adventure!
+        <h1 className=" ">
+       <img src="images/text-h.png" alt="" className=" mx-auto" />
         </h1>
         <div className="relative z-50">
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
@@ -18,7 +18,7 @@ function Hero() {
             </div>
             <div className=" w-full hidden sm:block">
               <div>
-                <img src="images/hero3.png" alt="" className=" mx-auto  h-[300px]" />
+                <img src="images/hero3.png" alt="" className=" mx-auto  h-[300px] mt-0 sm:mt-[20%]" />
               </div>
             </div>
 
