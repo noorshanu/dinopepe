@@ -5,10 +5,10 @@ const Footer = () => {
   return (
     <footer className=" w-full pb-4 border-t-2 mt-3 ">
       <div className="container-wrapper mt-1 ">
-        <div className="flex justify-between flex-col sm:flex-row">
+        <div className="flex justify-center flex-col sm:flex-row">
           <div className="mt-8 flex items-center justify-center gap-2">
           <p className="font-groot-one text-black">
-                Copyright 2024Dino pepe. All Rights Reserved.
+                Copyright 2024 Dinopepe. All Rights Reserved.
               </p>
 
           </div>
@@ -17,14 +17,7 @@ const Footer = () => {
             <div>
              
             </div>
-            <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-              <a target="_blank" href="https://twitter.com/Dino pepee">
-                <FaTwitter fill="#4D2E7B" />
-              </a>
-              <a target="_blank" href="https://t.me/Dino pepeso">
-                <FaTelegram fill="#4D2E7B" />
-              </a>
-            </div>
+    
           </div>
         </div>
       </div>
